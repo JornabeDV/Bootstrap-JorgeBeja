@@ -1,0 +1,8 @@
+.footer__cliente {
+    bottom: 0%;
+    width: 100%;
+    position: absolute;
+    color: white;
+    background-color: #343a40;
+    text-align: center;
+}
