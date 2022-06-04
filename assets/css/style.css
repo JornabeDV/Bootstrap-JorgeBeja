@@ -1,8 +1,14 @@
 .footer__cliente {
     bottom: 0%;
     width: 100%;
-    position: absolute;
+    position: relative;
     color: white;
     background-color: #343a40;
     text-align: center;
+}
+
+@media (min-width: 768px) {
+    .footer__cliente {
+        position: absolute;
+    }
 }
